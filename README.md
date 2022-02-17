@@ -1,3 +1,3 @@
-## The Preoject
+## The Project
 
 # My first ALX Repository
