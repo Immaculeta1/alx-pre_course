@@ -1,5 +1,1 @@
-## The Project
-
-# My first ALX Repository
-
-# Updated from Github.com
+## It’s the only time you are allowed to update and commit from GitHub interface
